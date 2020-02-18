@@ -1,3 +1,3 @@
 #!/bin/bash
-NUMBER=$($NUMBER1 + $NUMBER2)
+NUMBER=$(($NUMBER1 + $NUMBER2))
 echo "$NUMBER"
